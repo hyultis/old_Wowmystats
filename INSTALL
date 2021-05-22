@@ -1,0 +1,7 @@
+execute wowmystat.sql in mysql server
+
+configure libs/config.inc.php
+
+launch index.php in your browser
+
+this projet not work with the cataclysme armory
